@@ -1,2 +1,5 @@
 # IAM users and groups
  
+In this project I created IAM Users and Groups, then I attached AWS permissions policies to a specific group: 
+
+I first went to the AWS console and typed in IAM in the services search bar. I then clicked on Users under the Access Management tab. After, I clicked on Create User and created a globally unique username. I then added the user to a group by clicking "create group". After I created my group name "developers" I assigned permissions policies to that group and clicked "create user group". I clicked the next button and then scrolled down and hit the "create user button". I repeated the entire process again and added the second user to the same group as the first user. For the third user I repeated the same exact steps as I did for the previous users , but I created an entirely different group named "engineers" to add the user to and added a different permissions policy.
